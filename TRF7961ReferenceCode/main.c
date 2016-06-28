@@ -38,8 +38,7 @@
 //PORT1.7 - PORT1.3 - signaling LEDs
 //--------------------------------------
 
-#define DBG		0
-
+#define DBG		1
 
 #include <MSP430x23x0.h>     	
 #include <stdlib.h>		//Processor specific definitions
